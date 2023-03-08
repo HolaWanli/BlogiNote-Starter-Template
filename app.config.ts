@@ -1,8 +1,8 @@
 // https://v3.nuxtjs.org/guide/directory-structure/app.config
 export default defineAppConfig({
   theme: {
-    author: 'Your Name',
-    email: 'your-email@domain.com',
+    author: 'Wanli',
+    email: 'wanli@leshgo.ml',
     avatar: '/avatar.png',
     favicon: '/favicon.ico',
     articlePage: {
